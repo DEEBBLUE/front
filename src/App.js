@@ -1,5 +1,4 @@
 import React from "react";
-import { Routes, Route } from 'react-router-dom'
 import './style.css';
 
 const tg = window.Telegram.WebApp;
